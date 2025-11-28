@@ -1,2 +1,3 @@
 token = "8311522384:AAFne53myZiUMh7lGHvHUNLvwwVTCr9QNBA" 
 
+print('you touch you die')
